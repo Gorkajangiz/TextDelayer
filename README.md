@@ -9,6 +9,7 @@ la ventana (abre la posibilidad de implementarlo en ventanas, mientras que el ot
 TextDelayerDefault -> El método es el encargado de imprimir, por tanto solo funciona en la consola de comandos. 
 
 --Implementación
+
 Copia el método, renómbralo a tu gusto. 
 Crea un metodo con su constructor en tu ejecutable y llama a la función "delayer", dandole como parametros 
 un numero del 1 al 4 (Velocidades: 1 -> Lento 2 -> Normal 3 -> Rápido 4 -> Rapidísimo),
